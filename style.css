@@ -1,0 +1,21 @@
+.button-1{
+    color:white;
+    background-color: black;
+    border-radius: 8px;
+}
+.carousel-indicators{
+    color: coral;
+}
+#see-all{
+    color: goldenrod;
+    text-decoration: none;
+}
+.card-deck{background-color:white;
+   text-align: center;
+   margin: 20px;
+    
+}
+.card-1{
+    border-radius: 10px;
+}
+    
