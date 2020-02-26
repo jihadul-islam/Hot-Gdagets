@@ -10,12 +10,10 @@
     color: goldenrod;
     text-decoration: none;
 }
-.card-deck{background-color:white;
-   text-align: center;
-   margin: 20px;
     
+
+.card-deck {background-color:white;
+    text-align: center;
+    margin: 50px;
+   
 }
-.card-1{
-    border-radius: 10px;
-}
-    
